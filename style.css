@@ -1,0 +1,21 @@
+.jumbotron {
+  background-color: #d6e9f8;
+  padding-top: 6rem;
+}
+
+#gallery {
+  background-color: #d6e9f8;
+}
+
+a:hover {
+  transform: scale(5p);
+  transition: 0.5s;
+}
+
+img {
+  background-image: url("/img/Unsplash/profile.jpg");
+}
+
+h1 {
+  font-family: Serif;
+}

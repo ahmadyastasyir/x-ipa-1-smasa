@@ -1,15 +1,16 @@
 .jumbotron {
   background-color: #bdf2df;
   padding-top: 6rem;
+  Text-shadow: 0.5px 0.5px 0.1px whitesmoke;
 }
 
 #gallery {
-  background-color: #d6e9f8;
+  background-color: #bdf2df;
 }
 
 a:hover {
-  transform: scale(5px);
-  transition: 0.5s;
+  transform: scale(1.02);
+  transition: 0.2s;
 }
 
 img {
@@ -26,4 +27,5 @@ h1 {
 
 nav {
   font-family: Serif;
+  Text-shadow: 0.5px 0.5px 0.1px black;
 }

@@ -1,7 +1,7 @@
 .jumbotron {
   background-color: #bdf2df;
   padding-top: 6rem;
-  Text-shadow: 0.5px 0.5px 0.1px whitesmoke;
+  text-shadow: 0.5px 0.5px 0.1px whitesmoke;
 }
 
 #gallery {
@@ -23,16 +23,18 @@ img {
 
 nav {
   font-family: Serif;
-  Text-shadow: 0.5px 0.5px 0.1px black, 1.1px 1.2px 0.5px white;
+  text-shadow: 0.5px 0.5px 0.1px black, 1.1px 1.2px 0.5px white;
 }
 
-h3, h2, h1 {
-  Text-shadow: 0.8px 0.8px 0.2px whitesmoke, 1.1px 1.2px 0.5px black;
+h3,
+h2,
+h1 {
+  text-shadow: 0.8px 0.8px 0.2px whitesmoke, 1.1px 1.2px 0.5px black;
   font-family: Serif;
 }
 
 .text-warning a {
-  text-shadow: 0,9px 0,9px 0,5px black;
+  text-shadow: 0, 9px 0, 9px 0, 5px black;
   text-decoration: none;
 }
 
@@ -43,4 +45,8 @@ td {
 
 #bgkuning {
   background-image: linear-gradient(transparent, black, yellow, white);
+}
+
+.table-primary {
+  position: sticky;
 }

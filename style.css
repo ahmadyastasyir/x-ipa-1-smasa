@@ -44,7 +44,7 @@ td {
 }
 
 #bgkuning {
-  background-image: linear-gradient(transparent, black, yellow, white);
+  background-image: linear-gradient(transparent, aqua, yellow, rgb(131, 15, 240));
 }
 
 .table-primary {
